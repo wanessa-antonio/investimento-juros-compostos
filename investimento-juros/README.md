@@ -22,9 +22,9 @@ Saída:
 Exemplo:
 
 Entrada:
-5000
-0,08
-5
+= 5000
+= 0,08
+= 5
 
 Saída:
 Valor final do investimento: R$ 7346,64
