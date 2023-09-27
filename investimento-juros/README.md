@@ -22,8 +22,11 @@ Saída:
 Exemplo:
 
 Entrada:
+
 5000
+
 0,08
+
 5
 
 Saída:
