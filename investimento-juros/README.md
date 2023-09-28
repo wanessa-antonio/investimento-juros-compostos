@@ -14,7 +14,7 @@ A função deve receber os seguintes parâmetros:
 
 - taxa_juros: um número decimal representando a taxa de juros anual. Por exemplo, se a taxa for de 5%, o valor passado será 0,05.
 
-- periodo: um número inteiro representando a quantidade de anos do investimento.
+- período: um número inteiro representando a quantidade de anos do investimento.
 
 Saída:
 - A função deve retornar o valor final do investimento após o período determinado, considerando os juros compostos. O valor final deve ser arredondado para duas casas decimais.
